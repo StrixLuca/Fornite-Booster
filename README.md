@@ -1,4 +1,4 @@
-# Fortnite Booster van StrixLuca
+# Fortnite Booster by StrixLuca
 
 A free, open source Fortnite booster that makes the game run smoother and gives you more FPS. It works on any PC, any graphics card and any processor. No installer, no background processes, no account risk.
 
