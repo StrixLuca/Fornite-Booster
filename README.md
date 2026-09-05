@@ -4,6 +4,7 @@ A free, open source Fortnite booster that makes the game run smoother and gives 
 
 **Version 1.0 beta**
 ## Preview
+<img width="1188" height="638" alt="image" src="https://github.com/user-attachments/assets/8b5dbc4f-6764-4117-9cf6-1d7bc1d06595" />
 <img width="1904" height="1071" alt="image" src="https://github.com/user-attachments/assets/f3366a7d-4540-4863-98c7-7b17f167d9e7" />
 <img width="1167" height="796" alt="image" src="https://github.com/user-attachments/assets/dba98996-a323-4bd7-a97d-0542a33ea4e2" />
 <img width="1176" height="883" alt="image" src="https://github.com/user-attachments/assets/2fbfb70e-0c09-4367-a356-864f8ab483f3" />
