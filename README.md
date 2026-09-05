@@ -3,6 +3,15 @@
 A free, open source Fortnite booster that makes the game run smoother and gives you more FPS. It works on any PC, any graphics card and any processor. No installer, no background processes, no account risk.
 
 **Version 1.0 beta**
+## Preview
+<img width="1904" height="1071" alt="image" src="https://github.com/user-attachments/assets/f3366a7d-4540-4863-98c7-7b17f167d9e7" />
+<img width="1167" height="796" alt="image" src="https://github.com/user-attachments/assets/dba98996-a323-4bd7-a97d-0542a33ea4e2" />
+<img width="1176" height="883" alt="image" src="https://github.com/user-attachments/assets/2fbfb70e-0c09-4367-a356-864f8ab483f3" />
+<img width="1177" height="937" alt="image" src="https://github.com/user-attachments/assets/95dcc2c0-c6e5-472a-92ad-33c71d85c9d3" />
+<img width="1322" height="768" alt="image" src="https://github.com/user-attachments/assets/078ddbaf-e80b-41cc-8ee4-10a27ea45469" />
+
+
+
 
 ---
 
